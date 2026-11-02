@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "game-art-director",
+  "version": "0.1.0",
+  "description": "Open-source Codex workflows for planning and managing 2D game art workspaces, requirements and assets.",
+  "repository": "https://github.com/WindRises318/game-art-director"
+}
