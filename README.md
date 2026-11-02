@@ -27,6 +27,16 @@ scripts/smoke-test.mjs
 AGENTS.md
 ```
 
+## Install as a Codex plugin (preview)
+
+This repository now provides a **skills-only Plugin** with a portable manifest and a GitHub marketplace. It is not yet published in the universal Plugins Directory, and does not bundle image model tools.
+
+```bash
+codex plugin marketplace add WindRises318/game-art-director
+```
+
+Open `/plugins` in a supported Codex client, choose **game-art-director** from the newly added marketplace, and install. See [Plugin installation guide](docs/PLUGIN_INSTALL.md) for the latest instructions. The plugin package lives in `plugins/game-art-director/`; `.agents/skills/game-art-director/` remains available for direct repository use.
+
 ## Quick start in Codex
 
 1. Open this repo in Codex or a Codex Cloud environment, and make the repository available in the task workspace.
