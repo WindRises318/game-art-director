@@ -1,0 +1,11 @@
+{
+  "schemaVersion":"1.0",
+  "projectId":"new-game",
+  "projectName":"待配置的游戏名称",
+  "artScope":"2d",
+  "engine":"Cocos Creator",
+  "engineVersion":"3.8.8",
+  "targetPlatform":"微信小游戏",
+  "designResolution":{"width":815,"height":375},
+  "status":"draft"
+}
